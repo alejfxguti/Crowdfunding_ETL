@@ -57,9 +57,19 @@ This project involves building an ETL pipeline using Python, Pandas, and data ex
    - Save the database schema as `crowdfunding_db_schema.sql`.
    - Create a new PostgreSQL database named `crowdfunding_db`.
    - Use the schema to create tables in the correct order.
-   - Verify table creation with SELECT statements.
+   - Verify table creation with SELECT \* statements.
    - Import CSV files into corresponding SQL tables.
    - Verify data in each table with SELECT statements.
+               
+![](Resources/campaign_query.png)     
+               
+![](Resources/category_query.png)   
+            
+![](Resources/contacts_query.png) 
+                  
+![](Resources/subcategory_query.png)  
+               
+
 
 ### Deliverables
 
