@@ -78,6 +78,7 @@ This project involves building an ETL pipeline using Python, Pandas, and data ex
 - [subcategory.csv](Resources/subcategory.csv): Transformed subcategory data.
 - [campaign.csv](Resources/campaign.csv): Transformed campaign data.
 - [contacts.csv](Resources/contacts.csv): Transformed contacts data.
+- [QuickDBD-export.png](QuickDBD-export.png): ERD of four transformed csv files
 - [crowdfunding_db_schema.sql](crowdfunding_db_schema.sql): Table schema for the crowdfunding database.
 - [README.md](README.md): Project description and instructions.
 
